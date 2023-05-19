@@ -8,7 +8,7 @@ import About from './components/About'
 
 export default function Home() {
   return (
-    <div className=''>
+    <div className='max-w-[30rem] mx-auto'>
      <Header/>
      <About/>
 
