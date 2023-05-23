@@ -9,9 +9,8 @@ import About from './components/About'
 export default function Home() {
   return (
     <div className='max-w-[30rem] mx-auto'>
-      <head>
-        <title>b1lgeeee</title>
-      </head>
+      <title>b1lgee</title>
+
      <Header/>
      <About/>
 
